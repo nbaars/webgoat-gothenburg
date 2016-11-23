@@ -73,6 +73,7 @@ Go to <http://localhost:7777/WebGoat/start.mvc#attack/162777743/3000>
 
 ### Create new lessons
 
+#### Encryption lessons, ECB, CBC with fixed IV etc.
 #### Java deserialization vulnerabilities
 #### JavaMail SMTP Header Injection via method
 #### JWT Tokens (bugs in libraries for changing the algorithm, adjusting the token etc etc)
