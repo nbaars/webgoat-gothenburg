@@ -38,8 +38,8 @@ For WebGoat 8 first use the following link: http://localhost:8080/WebGoat/start.
 
 | WebGoat 8     | WebGoat 7        
 | --- |---
-|[String SQL Injection]t(http://localhost:8080/WebGoat/start.mvc#lesson/SqlInjection.lesson/6)|[String SQL Injection](http://localhost:7777/WebGoat/start.mvc#attack/538385464/1100)
-| | [Blind numeric SQL injection](http://localhost:7777/WebGoat/start.mvc#attack/586116895/1100)
+|[String SQL Injection](http://localhost:8080/WebGoat/start.mvc#lesson/SqlInjection.lesson/6)|[String SQL Injection](http://localhost:7777/WebGoat/start.mvc#attack/538385464/1100)
+|[Data from other tables](http://localhost:8080/WebGoat/start.mvc#lesson/SqlInjection.lesson/9) | [Blind numeric SQL injection](http://localhost:7777/WebGoat/start.mvc#attack/586116895/1100)
 | | [Blind String SQL injection](http://localhost:7777/WebGoat/start.mvc#attack/1315528047/1100)
 | | [LAB: SQL Injection](http://localhost:7777/WebGoat/start.mvc#attack/1537271095/1100)
 
@@ -66,6 +66,12 @@ First go to <http://localhost:8080/WebGoat/start.mvc#lesson/XXE.lesson> then use
 ### Up for a challenge?
 
 Go to <http://localhost:7777/WebGoat/start.mvc#attack/162777743/3000>
+
+### Create new lessons
+
+#### JavaMail SMTP Header Injection via method
+#### JWT Tokens (bugs in libraries for changing the algorithm, adjusting the token etc etc)
+#### etc.
 
 
 
