@@ -63,6 +63,10 @@ First go to <http://localhost:8080/WebGoat/start.mvc#lesson/XXE.lesson> then use
 | [LAB: Cross Site Scripting](http://localhost:7777/WebGoat/start.mvc#attack/611366032/900)
 | [Dangerous Use of Eval](http://localhost:7777/WebGoat/start.mvc#attack/136634854/400)
 
+### Client side filtering
+
+WebGoat 8, <http://localhost:8080/WebGoat/ClientSideFiltering.lesson>
+
 ### Up for a challenge?
 
 Go to <http://localhost:7777/WebGoat/start.mvc#attack/162777743/3000>
