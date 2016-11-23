@@ -4,7 +4,7 @@
 
 [WebGoat 7.1](https://github.com/WebGoat/WebGoat/releases/download/7.1/webgoat-container-7.1-exec.jar)
 
-[WebGoat 8.0-SNAPSHOT](...)
+[WebGoat 8.0-SNAPSHOT](https://github.com/nbaars/webgoat-gothenburg/releases/download/1.0/webgoat-container-8.0-SNAPSHOT.war)
 
 [ZAP](https://github.com/zaproxy/zaproxy/wiki/Downloads)
 
