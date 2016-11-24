@@ -76,12 +76,12 @@ Try to fix the lessons and see if it fixes the vulnerability.
 
 ### Create new lessons
 
-#### Extend SQL injection with order by injection
-#### Encryption lessons, ECB, CBC with fixed IV etc.
-#### Java deserialization vulnerabilities
-#### JavaMail SMTP Header Injection via method
-#### JWT Tokens (bugs in libraries for changing the algorithm, adjusting the token etc etc)
-#### etc.
+- Extend SQL injection with order by injection
+- Encryption lessons, ECB, CBC with fixed IV etc.
+- Java deserialization vulnerabilities
+- JavaMail SMTP Header Injection via method
+- JWT Tokens (bugs in libraries for changing the algorithm, adjusting the token etc etc)
+- etc.
 
 
 
