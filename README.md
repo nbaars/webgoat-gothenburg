@@ -73,6 +73,7 @@ Go to <http://localhost:7777/WebGoat/start.mvc#attack/162777743/3000>
 
 ### Create new lessons
 
+#### Extend SQL injection with order by injection
 #### Encryption lessons, ECB, CBC with fixed IV etc.
 #### Java deserialization vulnerabilities
 #### JavaMail SMTP Header Injection via method
