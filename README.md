@@ -19,6 +19,8 @@ In the browser use the following URL: <http://localhost:7777/WebGoat>
 
 ### WebGoat 8.0
 
+docker run -p 8080:8080 -t webgoat/webgoat-container
+
 ```
 java -jar webgoat-container-8.0-SNAPSHOT.war
 ```
