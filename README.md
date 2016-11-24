@@ -71,6 +71,9 @@ WebGoat 8, <http://localhost:8080/WebGoat/ClientSideFiltering.lesson>
 
 Go to <http://localhost:7777/WebGoat/start.mvc#attack/162777743/3000>
 
+### Defend?
+Try to fix the lessons and see if it fixes the vulnerability.
+
 ### Create new lessons
 
 #### Extend SQL injection with order by injection
