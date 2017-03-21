@@ -20,6 +20,8 @@ Download [ZAP](https://github.com/zaproxy/zaproxy/wiki/Downloads)
 
 [ZAP](https://github.com/zaproxy/zaproxy/wiki/Downloads)
 
+Important: WebGoat 8 requires Java 8.
+
 ## Start
 
 ### Running WebGoat 7.1
