@@ -10,7 +10,7 @@ For the workshop you can use Docker(preferred) or run it as a standalone jar:
 docker pull webgoat/webgoat-7.1
 docker pull webgoat/webgoat-8.0
 ```
-[ZAP](https://github.com/zaproxy/zaproxy/wiki/Downloads)
+Download [ZAP](https://github.com/zaproxy/zaproxy/wiki/Downloads)
 
 ### Alternative download links for workshop:
 
