@@ -1,25 +1,50 @@
 # WebGoat workshop
 
-## Download links for workshop:
+For the workshop you can use Docker(preferred) or run it as a standalone jar:
+
+## Docker
+
+```
+docker pull webgoat/webgoat-7.1
+docker pull webgoat/webgoat-8.0
+```
+[ZAP](https://github.com/zaproxy/zaproxy/wiki/Downloads)
+
+## Alternative download links for workshop:
 
 [WebGoat 7.1](https://github.com/WebGoat/WebGoat/releases/download/7.1/webgoat-container-7.1-exec.jar)
 
-[WebGoat 8.0-SNAPSHOT](https://github.com/nbaars/webgoat-gothenburg/releases/download/1.0/webgoat-container-8.0-SNAPSHOT.war)
+[WebGoat 8.0-SNAPSHOT](http://provided_during_workshop)
 
 [ZAP](https://github.com/zaproxy/zaproxy/wiki/Downloads)
 
 ## Start
 
-### WebGoat 7.1
+### Running WebGoat 7.1
+
+With Docker use: 
+
+```
+docker run -p 7777:7777 -t webgoat/webgoat-7.1
+```
+
+Running standalone use:
+
 ```
 java -jar webgoat-container-7.1-exec.jar -httpPort 7777
 ```
 
 In the browser use the following URL: <http://localhost:7777/WebGoat>
 
-### WebGoat 8.0
+### Running WebGoat 8.0
 
+With Docker use:
+
+```
 docker run -p 8080:8080 -t webgoat/webgoat-container
+```
+
+Running standalone use:
 
 ```
 java -jar webgoat-container-8.0-SNAPSHOT.war
