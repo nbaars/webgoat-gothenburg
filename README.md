@@ -1,8 +1,10 @@
 # WebGoat workshop
 
+## Preparation
+
 For the workshop you can use Docker(preferred) or run it as a standalone jar:
 
-## Docker
+### Docker
 
 ```
 docker pull webgoat/webgoat-7.1
@@ -10,7 +12,7 @@ docker pull webgoat/webgoat-8.0
 ```
 [ZAP](https://github.com/zaproxy/zaproxy/wiki/Downloads)
 
-## Alternative download links for workshop:
+### Alternative download links for workshop:
 
 [WebGoat 7.1](https://github.com/WebGoat/WebGoat/releases/download/7.1/webgoat-container-7.1-exec.jar)
 
